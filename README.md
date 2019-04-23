@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## What are we?
 
-You can use the [editor on GitHub](https://github.com/thelonewarrior/noahsmythdesigns/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+'We' isn't actually a thing. Since the start of this side job in 2015, there has only been one person pulling the strings. With an extensive portfolio and behind some of the biggest logos, you will be suprised at how good this man can be.
 
 ### Markdown
 
