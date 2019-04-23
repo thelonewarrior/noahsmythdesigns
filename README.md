@@ -2,26 +2,9 @@
 
 'We' isn't actually a thing. Since the start of this side job in 2015, there has only been one person pulling the strings. With an extensive portfolio and behind some of the biggest logos, you will be suprised at how good this man can be.
 
-### Markdown
+### History
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+It all started on one Summer night in 2015, when a friend noticed me sketching up some designs for a band I was a close friend to. He exclaimed that the drawings were amazing and showed them to the band, who in turn chose one and made it their logo. From that moment I knew that making logos and designs for people is what I wanted to do.
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
