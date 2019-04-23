@@ -1,4 +1,6 @@
-## What are we?
+# Noah Smyth Designs
+
+### What are we?
 
 'We' isn't actually a thing. Since the start of this side job in 2015, there has only been one person pulling the strings. With an extensive portfolio and behind some of the biggest logos, you will be suprised at how good this man can be.
 
