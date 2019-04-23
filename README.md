@@ -7,14 +7,15 @@
 ### History
 
 It all started on one Summer night in 2015, when a friend noticed me sketching up some designs for a band I was a close friend to. He exclaimed that the drawings were amazing and showed them to the band, who in turn chose one and made it their logo. From that moment I knew that making logos and designs for people is what I wanted to do.
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Pricing
 
-### Jekyll Themes
+You would think that since this is a one man operation which takes a lot of time that the prices would be high. It's the complete opposite with all logos costing absolutely £0/$0/Whatever currency you use! As long as you credit when you recieve you get it free!
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/thelonewarrior/noahsmythdesigns/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Contact
 
-### Support or Contact
+Here's a list of where you can get me:
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Discord: noahsmyth#5245
+
+Email: noahsmythdesigns@outlook.com or noahjohnsmyth@gmail.com
